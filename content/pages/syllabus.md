@@ -54,19 +54,209 @@ There will be no final examination.
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| Week # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | Introduction; the Puritans | &nbsp; |
-| 2 | "The First Famous American": Benjamin Franklin | Group I Papers Due  {{< br >}}  {{< br >}}Group I Oral Presentations |
-| 3 | Paine's "Common Sense" and the Declaration of Independence | Group II Papers Due  {{< br >}}  {{< br >}}Group II Oral Presentations |
-| 4 | The Constitutional Convention | Group III Papers Due  {{< br >}}  {{< br >}}Group III Oral Presentations |
-| 5 | Exploring the West | Group I Papers Due  {{< br >}}  {{< br >}}Group I Oral Presentations |
-| 6 | Slave Narratives: Frederick Douglass and Harriet Jacobs | Group II Papers Due  {{< br >}}  {{< br >}}Group II Oral Presentations |
-| 7 | "The Little Lady Who Caused This Big War" | Group III Papers Due  {{< br >}}  {{< br >}}Group III Oral Presentations |
-| 8 | The Lincoln-Douglas Debates; Lincoln | Group I Papers Due  {{< br >}}  {{< br >}}Group I Oral Presentations |
-| 9 | Ulysses S. Grant and the Civil War | Group II Papers Due  {{< br >}}  {{< br >}}Group II Oral Presentations |
-| 10 | Discussion: Paper Topics; Writing Final Papers | &nbsp; |
-| 11 | Making Money - and Giving it Away | Group III Papers Due  {{< br >}}  {{< br >}}Group III Oral Presentations |
-| 12 | Segregation and Blacks' Dreams of Success | Group I Oral Presentations |
-| 13 | What a Difference the Radio Made: the Presidency, at Home | Group II Oral Presentations |
-| 14 | Free at Last? | Group III Oral Presentations  {{< br >}}  {{< br >}}Final Paper Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction; the Puritans
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+"The First Famous American": Benjamin Franklin
+{{< tdclose >}}
+{{< tdopen >}}
+Group I Papers Due  
+  
+Group I Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Paine's "Common Sense" and the Declaration of Independence
+{{< tdclose >}}
+{{< tdopen >}}
+Group II Papers Due  
+  
+Group II Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Constitutional Convention
+{{< tdclose >}}
+{{< tdopen >}}
+Group III Papers Due  
+  
+Group III Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Exploring the West
+{{< tdclose >}}
+{{< tdopen >}}
+Group I Papers Due  
+  
+Group I Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Slave Narratives: Frederick Douglass and Harriet Jacobs
+{{< tdclose >}}
+{{< tdopen >}}
+Group II Papers Due  
+  
+Group II Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+"The Little Lady Who Caused This Big War"
+{{< tdclose >}}
+{{< tdopen >}}
+Group III Papers Due  
+  
+Group III Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Lincoln-Douglas Debates; Lincoln
+{{< tdclose >}}
+{{< tdopen >}}
+Group I Papers Due  
+  
+Group I Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ulysses S. Grant and the Civil War
+{{< tdclose >}}
+{{< tdopen >}}
+Group II Papers Due  
+  
+Group II Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: Paper Topics; Writing Final Papers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Making Money - and Giving it Away
+{{< tdclose >}}
+{{< tdopen >}}
+Group III Papers Due  
+  
+Group III Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Segregation and Blacks' Dreams of Success
+{{< tdclose >}}
+{{< tdopen >}}
+Group I Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+What a Difference the Radio Made: the Presidency, at Home
+{{< tdclose >}}
+{{< tdopen >}}
+Group II Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Free at Last?
+{{< tdclose >}}
+{{< tdopen >}}
+Group III Oral Presentations  
+  
+Final Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
